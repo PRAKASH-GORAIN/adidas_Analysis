@@ -1,7 +1,7 @@
 # adidas_sales_Analysis
 
 Through this Power BI-driven analysis, Adidas aims to empower its decision-makes with data-driven insights, fostering stratigic growth and 
-cpmpetitiveness in the dynamic sports and atheletic industry.
+competitiveness in the dynamic sports and atheletic industry.
 
 KPI's:
 
