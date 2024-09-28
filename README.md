@@ -3,7 +3,7 @@
 Through this Power BI-driven analysis, Adidas aims to empower its decision-makes with data-driven insights, fostering stratigic growth and 
 cpmpetitiveness in the dynamic sports and atheletic industry.
 
-KPI's
+KPI's:
 
 1.Total Sales Analysis : Analyzes Adidas' sales performance over time, identifying growth or decline patterns and seasonal trends.
 
